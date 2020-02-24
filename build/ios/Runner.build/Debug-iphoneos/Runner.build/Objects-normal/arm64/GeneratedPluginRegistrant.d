@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/Flutter.h

@@ -1,0 +1,5 @@
+version: "Apple Swift version 5.1.3 (swiftlang-1100.0.282.1 clang-1100.0.33.15)"
+options: "fe35f2818f5e9f8ba09fab73dbc64f8b"
+build_time: [1581499270, 705466000]
+inputs:
+  "/Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Runner/AppDelegate.swift": [1580544857, 752428590]

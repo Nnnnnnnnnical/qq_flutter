@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Modules/module.modulemap \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/ios/Flutter/Flutter.framework/Headers/Flutter.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/build/ios/Debug-iphonesimulator/image_picker/image_picker.framework/Headers/ImagePickerPlugin.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/build/ios/Debug-iphonesimulator/image_picker/image_picker.framework/Modules/module.modulemap \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/build/ios/Debug-iphonesimulator/image_picker/image_picker.framework/Headers/image_picker-umbrella.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/build/ios/Debug-iphonesimulator/shared_preferences/shared_preferences.framework/Headers/SharedPreferencesPlugin.h \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/build/ios/Debug-iphonesimulator/shared_preferences/shared_preferences.framework/Modules/module.modulemap \
+  /Users/LY/PAC/leooooli/flutterProj/qq-flutter/build/ios/Debug-iphonesimulator/shared_preferences/shared_preferences.framework/Headers/shared_preferences-umbrella.h
