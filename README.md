@@ -1,6 +1,6 @@
 # qq
 
-初学flutter，写一个高仿qq作为一个联手项目
+初学flutter，写一个高仿qq作为一个练手项目
 
 ## Getting Started
 
